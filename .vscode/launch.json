@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ScannerTest",
+            "request": "launch",
+            "mainClass": "ScannerTest.ScannerTest",
+            "projectName": "JaveLearning_943e884c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FormattingString",
+            "request": "launch",
+            "mainClass": "StringObject.FormattingString",
+            "projectName": "JaveLearning_943e884c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "${file}"
+        }
+    ]
+}
