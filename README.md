@@ -1,4 +1,8 @@
 # JAVA starter projects
+## 8th April updating:
+1. Practice of Array Object:
+    1. Declaring and intializing array;
+    1. Methods of array.
 ## 7th April updating:
 1. My first Java program;
 1. Practice of loop;
@@ -9,8 +13,3 @@
     1. Formatting date;
     1. Regular expression;
     1. Use of StringBuilder.
-##  8th April updating:
-1. Practice of Array Object:
-    1. Declaring and intializing array;
-    1. Methods of array.
-
