@@ -13,6 +13,5 @@ public class CreatingArray{
         array1 = new int[]{1,2,3,4,5};//通过元素初始化
         int array3[] = {1,2,3,4,5,6};//声明同时通过元素初始化
         int doubleDimensionArray2[][] = {{1,2,3},{2,2,3},{3,2,3}};//二维数组初始化
-
     }
 }
