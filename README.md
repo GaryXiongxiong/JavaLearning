@@ -1,19 +1,19 @@
 # JAVA starter projects
 ## 9th April updating:
-1. Practice of basic Object and Class:
-    1. Declaring a Class;
-    1. Create a Object;
-    1. Declaring members;
-        1. Fields;
-        1. Methods;
-        1. Constructor;
-    1. Use of Static Members;
-    1. Use of Access modifier;
-    1. Call methods;
+### Practice of basic Object and Class:
+1. Declaring a Class;
+1. Create a Object;
+1. Declaring members;
+    1. Fields;
+    1. Methods;
+    1. Constructor;
+1. Use of Static Members;
+1. Use of Access modifier;
+1. Call methods;
 ## 8th April updating:
-1. Practice of Array Object:
-    1. Declaring and intializing array;
-    1. Methods of array.
+###Practice of Array Object:
+1. Declaring and intializing array;
+1. Methods of array.
 ## 7th April updating:
 1. My first Java program;
 1. Practice of loop;
