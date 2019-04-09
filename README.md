@@ -11,7 +11,7 @@
 1. Use of Access modifier;
 1. Call methods;
 ## 8th April updating:
-###Practice of Array Object:
+### Practice of Array Object:
 1. Declaring and intializing array;
 1. Methods of array.
 ## 7th April updating:
