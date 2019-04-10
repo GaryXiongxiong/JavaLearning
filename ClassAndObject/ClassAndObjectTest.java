@@ -13,5 +13,6 @@ public class ClassAndObjectTest{
         System.out.println(bird1.id);//也可调用，但不建议，容易混淆静态成员与非静态成员
         System.out.println(bird1 == bird3);
         System.out.println(bird1.equals(bird3));//待研究为何为False
+        // 10th April update:equals方法需要在类中重载，确定equals定义。
     }
 }

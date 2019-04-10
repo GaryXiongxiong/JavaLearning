@@ -22,5 +22,13 @@ public class Birds {
      protected void fly(){
          System.out.println(this.name+":扑啦扑啦");
      }
+     public boolean equals(Birds tar){
+         if(this.name == tar.name){
+             return true;
+         }
+         else{
+             return false;
+         }
+     }
     
 }
