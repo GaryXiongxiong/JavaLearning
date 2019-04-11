@@ -1,19 +1,30 @@
 # JAVA starter projects
 
-## 10th April updating:
+## 11 April updating:
+
+## Practice use of Math Class:
+
+1. Methods in Math Class;
+    1. Trigonometric methods;
+    1. Exponential methods;
+    1. Random methods;
+1. Formatting number;
+1. Use of BigInteger and BigDecimal.
+
+## 10 April updating:
 
 ### Practice use of packaged class:
 
-1. Integer
-1. Boolean
-1. Byte
-1. Character
-1. Double
-1. Their father abstract class Number
+1. Integer;
+1. Boolean;
+1. Byte;
+1. Character;
+1. Double;
+1. Their father abstract class Number.
 
 ### Fix issues of equals() in Class of Birds
 
-## 9th April updating:
+## 9 April updating:
 
 ### Practice of basic Object and Class:
 
@@ -25,16 +36,16 @@
     1. Constructor;
 1. Use of Static Members;
 1. Use of Access modifier;
-1. Call methods;
+1. Call methods.
 
-## 8th April updating:
+## 8 April updating:
 
 ### Practice of Array Object:
 
 1. Declaring and intializing array;
 1. Methods of array.
 
-## 7th April updating:
+## 7 April updating:
 
 1. My first Java program;
 1. Practice of loop;

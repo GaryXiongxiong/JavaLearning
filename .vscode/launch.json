@@ -1,19 +1,6 @@
 {
     "configurations": [
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - ScannerTest",
-            "request": "launch",
-            "mainClass": "ScannerTest.ScannerTest",
-            "projectName": "JaveLearning_943e884c"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - FormattingString",
-            "request": "launch",
-            "mainClass": "StringObject.FormattingString",
-            "projectName": "JaveLearning_943e884c"
-        },
+
         {
             "type": "java",
             "name": "Debug (Launch) - Current File",
