@@ -17,6 +17,7 @@ public class PackagedClassTest{
         System.out.println(Integer.MIN_VALUE);
         System.out.println(Integer.SIZE);
         System.out.println(Integer.TYPE);//类中的几个常量
+        System.out.println(Character.getNumericValue('1'));
     }
 }
 //其余Boolean,Byte,Character,Double类似，他们都是Number抽象类的子类

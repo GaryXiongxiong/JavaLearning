@@ -1,6 +1,7 @@
 {
     "configurations": [
 
+
         {
             "type": "java",
             "name": "Debug (Launch) - Current File",
@@ -9,9 +10,9 @@
         },
         {
             "type": "java",
-            "name": "Debug (Launch) - Current File External Terminal",
+            "name": "Debug (Launch) - Current File integrated Terminal",
             "request": "launch",
-            "console": "externalTerminal",
+            "console": "integratedTerminal",
             "mainClass": "${file}"
         }
     ]
