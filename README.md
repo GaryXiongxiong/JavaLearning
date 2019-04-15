@@ -1,8 +1,28 @@
 # JAVA starter projects
 
+## 15 April updating:
+
+### Reload methods
+
+Reload methods to recept different arguments.
+
+### Interface
+
+1. Defining an Interface;
+1. Implement an Interface;
+1. Override methods of interface.
+
+## 12 April updating:
+
+### Inheritance
+
+1. Declaration of class inherit other class;
+1. Use super methods;
+1. Override methods of superclass.
+
 ## 11 April updating:
 
-## Practice use of Math Class:
+### Practice use of Math Class:
 
 1. Methods in Math Class;
     1. Trigonometric methods;
