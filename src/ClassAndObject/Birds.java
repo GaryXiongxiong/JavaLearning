@@ -3,6 +3,9 @@ package ClassAndObject;
 public class Birds {
      private String name;
      static int id = 0;//静态变量-定义在类中，不会被对象实例化，所有对象供用
+     public static void run(Birds b) {//定义静态方法，参数为Birds对象，同时可以以Birds子类的对象作为参数，实现多态。
+         System.out.println(b.getName()+" is running");         
+     }
      public Birds(){//定义无参数构造函数
          id++;
          System.out.println("第"+id+"只鸟已创建");

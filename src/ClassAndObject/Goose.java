@@ -10,7 +10,7 @@ public class Goose extends Birds{
     public void says(){
         System.out.println("GoooGoooo");
     }
-    public void fly(){//重写是可以把修饰权限从小到大的修
+    public void fly(){//重写是可以把修饰权限从小到大的修改
         System.out.println(super.getName()+":鹅扑啦扑啦");//重写父类方法
     }
 

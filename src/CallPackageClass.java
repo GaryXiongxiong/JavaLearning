@@ -16,5 +16,6 @@ public class CallPackageClass{
         goose1.says();//调用子类的新方法says
         goose1.fly();
         System.out.println(goose1.getName());//父类方法直接继承
+        Birds.run(new Goose("Jack"));//调用Birds类的静态方法，参数为Birds对象，以Birds的子类Goose对象向上转型为参数，实现多态
     }
 }
