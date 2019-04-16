@@ -1,5 +1,13 @@
 # JAVA starter projects
 
+## 16 April updating:
+
+### Exceptions
+
+1. Use try-catch to catch and handle exceptions;
+1. Declare a exception class;
+1. use throw and throws to throw exceptions.
+
 ## 15 April updating:
 
 ### Reload methods
