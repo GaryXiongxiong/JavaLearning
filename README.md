@@ -1,6 +1,6 @@
 # JAVA starter projects
 
-## 16 April updating:
+## 16 April updating
 
 ### Exceptions
 
@@ -8,7 +8,7 @@
 1. Declare a exception class;
 1. use throw and throws to throw exceptions.
 
-## 15 April updating:
+## 15 April updating
 
 ### Reload methods
 
@@ -20,7 +20,7 @@ Reload methods to recept different arguments.
 1. Implement an Interface;
 1. Override methods of interface.
 
-## 12 April updating:
+## 12 April updating
 
 ### Inheritance
 
@@ -28,9 +28,9 @@ Reload methods to recept different arguments.
 1. Use super methods;
 1. Override methods of superclass.
 
-## 11 April updating:
+## 11 April updating
 
-### Practice use of Math Class:
+### Practice use of Math Class
 
 1. Methods in Math Class;
     1. Trigonometric methods;
@@ -39,9 +39,9 @@ Reload methods to recept different arguments.
 1. Formatting number;
 1. Use of BigInteger and BigDecimal.
 
-## 10 April updating:
+## 10 April updating
 
-### Practice use of packaged class:
+### Practice use of packaged class
 
 1. Integer;
 1. Boolean;
@@ -54,7 +54,7 @@ Reload methods to recept different arguments.
 
 ## 9 April updating:
 
-### Practice of basic Object and Class:
+### Practice of basic Object and Class
 
 1. Declaring a Class;
 1. Create a Object;
@@ -66,14 +66,14 @@ Reload methods to recept different arguments.
 1. Use of Access modifier;
 1. Call methods.
 
-## 8 April updating:
+## 8 April updating
 
-### Practice of Array Object:
+### Practice of Array Object
 
 1. Declaring and intializing array;
 1. Methods of array.
 
-## 7 April updating:
+## 7 April updating
 
 1. My first Java program;
 1. Practice of loop;
