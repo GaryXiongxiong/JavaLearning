@@ -1,5 +1,17 @@
 # JAVA starter projects
 
+## 17 April updating
+
+### Advanced features of class
+
+1. Inner Class;
+1. Local Inner Class;
+1. Anonymous Inner Class.
+
+### Start to use Swing
+
+My first Swing program.
+
 ## 16 April updating
 
 ### Exceptions
