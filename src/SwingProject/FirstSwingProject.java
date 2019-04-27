@@ -4,7 +4,9 @@ import java.awt.*;
 import javax.swing.*;
 public class FirstSwingProject extends JFrame{//主类继承JFrame类，则不需要在类中new JFrame？
 
-    public void initializeJFrame(String title) {//初始化窗体方法
+    private static final long serialVersionUID = 1L;
+
+    public void initializeJFrame(String title) {// 初始化窗体方法
         // JFrame jf1 = new JFrame(title);//创建一个JFrame对象，因为所在类继承了JFrame，所以可以直接用this进行窗口初始化？
         this.setTitle(title);
         Container container = this.getContentPane();

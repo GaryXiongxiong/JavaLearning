@@ -1,5 +1,17 @@
 # JAVA starter projects
 
+## 27 April updating
+
+### Dialog Window
+
+1. Creat a dialog window;
+1. Add a event listener to a button.
+
+### Icon Using
+
+1. Use Icon implement;
+1. Use ImageIcon.
+
 ## 17 April updating
 
 ### Advanced features of class
