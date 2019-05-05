@@ -1,5 +1,25 @@
 # JAVA starter projects
 
+## 5 May updating
+
+### Layout Managers
+
+1. Absolute positon
+1. Flow layout
+1. Border layout
+1. Grid layout
+1. Grid bag layout
+
+### Components
+
+1. Button
+1. Radio button
+1. Check box
+1. Combo box
+1. List
+1. Text field
+1. Text area
+
 ## 27 April updating
 
 ### Dialog Window
