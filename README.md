@@ -1,5 +1,14 @@
 # JAVA starter projects
 
+## 7 May updating
+
+### Collection Classes
+
+1. Implements of Collection
+1. Use of List Classes
+1. Use of Set Classes
+1. Use of Map Classes
+
 ## 5 May updating
 
 ### Layout Managers

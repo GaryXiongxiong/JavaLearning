@@ -5,10 +5,10 @@ import java.awt.*;
 import java.awt.event.*;//ActionEvent来自这里
 
 class MyJDialog extends JDialog{//弹窗，继承JDialog类
-    public MyJDialog(MessageWindow frame){//构造函数，定义弹出窗口
+    public MyJDialog(MessageWindow frame, String massage){//构造函数，定义弹出窗口
         super(frame,"MyJDialog",true);//调用父类JDialog的构造函数
         Container container = getContentPane();//初始化内容面板
-        container.add(new JLabel("这是一个对话框"));//为内容面板加入内容
+        container.add(new JLabel(massage));//为内容面板加入内容
         setBounds(120, 120, 100, 100);//设置弹窗尺寸
         setVisible(true);//设置弹窗可见性
     }
@@ -32,7 +32,7 @@ public class MessageWindow extends JFrame{//主体窗口，继承JFrame类
         bt1.addActionListener(new ActionListener(){//给按钮添加ActionListener，参数为新建的ActionListenner接口的匿名类
             @Override
             public void actionPerformed(ActionEvent event){//在类中实现接口的actionPerformed函数
-                new MyJDialog(MessageWindow.this);//创建弹窗对象，把弹窗的父窗体作为参数
+                new MyJDialog(MessageWindow.this,event.getActionCommand());//创建弹窗对象，把弹窗的父窗体作为参数
             }
         });
         containner1.add(bt1);//添加按钮
