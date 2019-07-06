@@ -1,7 +1,12 @@
 {
     "configurations": [
-
-
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LargestPerimeterTriangle",
+            "request": "launch",
+            "mainClass": "Leetcode.LargestPerimeterTriangle",
+            "projectName": "JavaLearning"
+        },
         {
             "type": "java",
             "name": "Debug (Launch) - Current File",
