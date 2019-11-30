@@ -12,7 +12,7 @@ public class Serialize {
     public static void main(String[] args) {
         Earthquake eq = new Earthquake(5.5,27.1,22.3,2019);
         try {
-            File outFile = new File("earthquake.ser");
+            File outFile = new File("data/earthquake.ser");
             FileOutputStream fileOut = new FileOutputStream(outFile);
             ObjectOutputStream objectOut = new ObjectOutputStream(fileOut);
             objectOut.writeObject(eq);

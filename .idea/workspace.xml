@@ -2,14 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db309083-f4d3-4df7-9c63-d64e1e2f574f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File/File.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File/src/File1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/IO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/BufferedStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/PropertiesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/lib/mysql-connector-java-8.0.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/JdbcDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/src/RunnableInLambdaStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/src/RunnableInObjectStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/src/RunnableTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/Socket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/src/MySocketClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/src/MySocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex/regex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex/src/tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaLab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaLab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/earthquake.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serialise/src/Deserialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/serialise/src/Deserialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serialise/src/Earthquake.java" beforeDir="false" afterPath="$PROJECT_DIR$/serialise/src/Earthquake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serialise/src/Serialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/serialise/src/Serialize.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../JavaLearning\exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,23 +72,36 @@
       </set>
     </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="580" />
+    <option name="y" value="200" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
   <component name="ProjectId" id="1SwZMrXMGsb8l43UwO2zxIFsf4k" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - Newcastle University/CourseWork/CSC8001-p2/WCSTickets" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -53,114 +110,78 @@
       <recent name="C:\Users\Yixio\OneDrive\Source\JavaLab\basic" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="ThreadSafety" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yixio\OneDrive\Source\JavaLearning\JDBC\lib" />
       <recent name="C:\Users\Yixio\OneDrive\Source\JavaLab\MutiThread\src\ThreadSafety\Lock" />
       <recent name="C:\Users\Yixio\OneDrive\Source\JavaLab\MutiThread\src\ThreadSafety" />
       <recent name="C:\Users\Yixio\OneDrive\Source\JavaLab\MutiThread\src\ThreadSafety\SyncMethod" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="export setting" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadPool1">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadSafety.ThreadCommu.Main" />
-      <module name="MutiThread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreadSafety.ThreadCommu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.Deserialize">
+    <configuration name="BufferedStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BufferedStreamDemo" />
+      <module name="IO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTicket (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadSafety.SyncMethod.TestTicket" />
-      <module name="MutiThread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreadSafety.SyncMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Deserialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Deserialize" />
+      <module name="serialise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTicket (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadSafety.Lock.TestTicket" />
-      <module name="MutiThread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreadSafety.Lock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="JdbcDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JdbcDemo1" />
+      <module name="JDBC" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadSafety.TestTicket" />
-      <module name="MutiThread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreadSafety.SyncLock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="PropertiesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PropertiesDemo" />
+      <module name="IO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadSafety.SyncLock.TestTicket" />
-      <module name="MutiThread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreadSafety.SyncLock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadPool1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadPool.ThreadPool1" />
-      <module name="MutiThread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreadPool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Serialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Serialize" />
+      <module name="serialise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadPool1" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TestTicket (2)" />
-        <item itemvalue="Application.TestTicket (1)" />
-        <item itemvalue="Application.TestTicket" />
+        <item itemvalue="Application.Deserialize" />
+        <item itemvalue="Application.Serialize" />
+        <item itemvalue="Application.BufferedStreamDemo" />
+        <item itemvalue="Application.PropertiesDemo" />
+        <item itemvalue="Application.JdbcDemo1" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -184,6 +205,24 @@
       <workItem from="1573234677772" duration="97000" />
       <workItem from="1573338696651" duration="1719000" />
       <workItem from="1573340796018" duration="1722000" />
+      <workItem from="1573342562077" duration="3450000" />
+      <workItem from="1573396131381" duration="3647000" />
+      <workItem from="1573464696876" duration="28000" />
+      <workItem from="1573466256070" duration="1714000" />
+      <workItem from="1573593555990" duration="750000" />
+      <workItem from="1574009212287" duration="47000" />
+      <workItem from="1574070813679" duration="1672000" />
+      <workItem from="1574161662067" duration="272000" />
+      <workItem from="1574174858378" duration="756000" />
+      <workItem from="1574427871129" duration="997000" />
+      <workItem from="1574430220947" duration="984000" />
+      <workItem from="1574681413534" duration="792000" />
+      <workItem from="1574682322736" duration="2660000" />
+      <workItem from="1574685532877" duration="1852000" />
+      <workItem from="1574710876019" duration="1503000" />
+      <workItem from="1574760836907" duration="121000" />
+      <workItem from="1574768043163" duration="86000" />
+      <workItem from="1575131032529" duration="4001000" />
     </task>
     <task id="LOCAL-00001" summary="Rebuild file structure">
       <created>1573342156557</created>
@@ -192,14 +231,178 @@
       <option name="project" value="LOCAL" />
       <updated>1573342156557</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Rebuild file structure">
+      <created>1573342635785</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573342635785</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Rebuild file structure">
+      <created>1573342766227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573342766227</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Rebuild file structure" />
     <option name="LAST_COMMIT_MESSAGE" value="Rebuild file structure" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="178" key="#Notifications" timestamp="1575131037022">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="178" key="#Notifications/0.0.1440.920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575131037022" />
+    <state x="-1240" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575135182676">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1240" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575135182676" />
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom" timestamp="1575135468560">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1440.920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575135468560" />
+    <state width="1877" height="254" key="GridCell.Tab.0.center" timestamp="1575135468560">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1440.920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575135468560" />
+    <state width="1877" height="254" key="GridCell.Tab.0.left" timestamp="1575135468559">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1440.920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575135468559" />
+    <state width="1877" height="254" key="GridCell.Tab.0.right" timestamp="1575135468560">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1440.920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575135468560" />
+    <state width="1877" height="254" key="GridCell.Tab.1.bottom" timestamp="1575135468282">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.bottom/0.0.1440.920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575135468282" />
+    <state width="1877" height="254" key="GridCell.Tab.1.center" timestamp="1575135468282">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.center/0.0.1440.920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575135468282" />
+    <state width="1877" height="254" key="GridCell.Tab.1.left" timestamp="1575135468282">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.left/0.0.1440.920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575135468282" />
+    <state width="1877" height="254" key="GridCell.Tab.1.right" timestamp="1575135468282">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.right/0.0.1440.920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575135468282" />
+    <state x="-1586" y="129" key="new project wizard" timestamp="1575131139913">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1586" y="129" key="new project wizard/0.0.1440.920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575131139913" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1575134114629">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1440.920/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575134114629" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>regex</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

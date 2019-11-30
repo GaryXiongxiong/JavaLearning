@@ -12,6 +12,7 @@ public class Earthquake implements Comparable<Earthquake> , Serializable {
     private double mag;
     private double[] pos;
     private int year;
+    private static final long serialVersionUID = 10L;
 
     /**
      * Constructor for initialization of earthquake object, which takes 4 params and assign these to fields.
@@ -111,7 +112,7 @@ public class Earthquake implements Comparable<Earthquake> , Serializable {
      */
     @Override
     public String toString() {
-        return "|Magnitude: " + String.format("%.1f",mag) + "\t|Position: " + String.format("%-14s",pos[0] + "," + pos[1]) + "\t|Year:" + year;
+        return "Magnitude: " + String.format("%.1f",mag) + "\tPosition: " + String.format("%-14s",pos[0] + "," + pos[1]) + "\tYear:" + year;
     }
 
 }

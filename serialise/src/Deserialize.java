@@ -14,7 +14,7 @@ import java.io.ObjectInputStream;
 public class Deserialize {
     public static void main(String[] args) {
         try{
-            FileInputStream fileIn = new FileInputStream("earthquake.ser");
+            FileInputStream fileIn = new FileInputStream("data/earthquake.ser");
             ObjectInputStream objectIn = new ObjectInputStream(fileIn);
             Object eq = objectIn.readObject();
             if(eq instanceof Earthquake){
